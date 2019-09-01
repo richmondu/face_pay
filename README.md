@@ -6,25 +6,32 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
 
 ### Core ideas:
 
-- Face Recognition (with options of Fingerprint biometrics and RFID employee ID)
-- Speech Synthesis (for digital assisstant for voice enabled instructions)
+- <b>Face Recognition</b> (with options of Fingerprint biometrics and RFID employee ID)
+
+  Having a facial recognition payment solution will entice employees to use the digital wallet.
+  Employees who opts to use the technology will gain points that can be converted into cash.
+
+- <b>Speech Synthesis</b> (for digital assisstant for voice enabled instructions)
 
   A digital voice assistant named DeBbie will guide user through the process.
   This would be really helpful for first time users.
   
-- Amazon Cognito (for user signup/signin with MFA/OTP via SMS/email)
+- <b>Amazon Cognito</b> (for user signup/signin with MFA/OTP via SMS/email)
 
   By default, an OTP code will be sent to user after user's face has been recognized.
   This enhances security by preventing fraud activities and ensuring user is who he says he is and therefore has access to his mobile phone.
   
-- Integration to Globe's GCash, Smart's Paymaya and digital wallet solutions
+- Integration to <b>Globe's GCash, Smart's Paymaya and Grab's GrabPay</b> digital wallet solutions
 
   There's a lot of digital payments solutions in the country already.
   To create another one will prevent wide-spread usage of the technology.
   We should focus on integrating to digital wallets of top-tier companies.
 
-- Integration to ADB's accounting system for food allowance and bonus allocations
+- Integration to <b>ADB's accounting system</b> for food allowance and bonus allocations
 
+  Food allowances to employees will automatically be transferred to employee's digital wallets.
+  A certain portion of yearly bonuses will also be transferred automatically.
+  
 
 ### Feasibility:
 
