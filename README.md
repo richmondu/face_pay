@@ -31,7 +31,7 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
   We should focus on integrating to country's leading digital wallets solutions such as GCash, Paymaya and possibly GrabPay as well.
 
   This will make employees use the technology more often because they can use it outside ADB premises.
-  If employees use the digital wallet solution outside the office, more likely that they will use it inside the ADB office.
+  <b>If employees use the digital wallet solution outside the office, more likely that they will use it inside the ADB office.</b>
 
   
 
