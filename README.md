@@ -11,7 +11,7 @@ https://challenges.adb.org/en/challenges/adb-pay
 
 - <b>Face Recognition</b> (with options of Fingerprint biometrics and RFID employee ID)
 
-  <b>Having a facial recognition payment solution will entice employees to use the digital wallet solution instead of cash because it is an exciting new technology that is only often found in airports or in China.</b>
+  <b>Having a facial recognition payment solution will entice employees to use the digital wallet solution instead of cash because it is an exciting new technology.</b>
   
   The hype can subside after some weeks so to make the use of techlogy sustainable, usage must be tied up to some point system.
   Employees who opts to use the technology will gain points that can be converted into cash.
