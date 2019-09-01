@@ -28,8 +28,8 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
 	   
 - Proof of concept prototype
 
-  [Face Pay demo prototype](https://developer.amazon.com/alexa-voice-service)
+  [Face Pay demo prototype](https://github.com/richmondu/face_pay/blob/master/face_pay.mp4)
 
-      <a href="https://www.youtube.com/watch?v=oTaFX3ZQlnA"
-       target="_blank"><img src="https://img.youtube.com/vi/oTaFX3ZQlnA/0.jpg" 
+      <a href="https://github.com/richmondu/face_pay/blob/master/face_pay.mp4"
+       target="_blank"><img src="https://github.com/richmondu/face_pay/blob/master/face_pay.mp4" 
        alt="Alexa Voice Service" width="480" border="10" /></a>
