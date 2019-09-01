@@ -28,8 +28,8 @@ Paying food using facial recognition is already available in China
 	   
 Proof of concept prototype
 
-[Face Pay demo prototype](https://github.com/richmondu/face_pay/blob/master/face_pay.mp4)
+[Face Pay demo prototype](https://youtu.be/SCYkW_XRK2c)
 
-<a href="https://github.com/richmondu/face_pay/blob/master/face_pay.mp4"
-    target="_blank"><img src="https://github.com/richmondu/face_pay/blob/master/face_pay.mp4" 
-    alt="Alexa Voice Service" width="480" border="10" /></a>
+<a href="https://youtu.be/SCYkW_XRK2c"
+    target="_blank"><img src="https://img.youtube.com/vi/CYkW_XRK2c/0.jpg" 
+    alt="Face Pay demo prototype" width="480" border="10" /></a>
