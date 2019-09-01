@@ -1,6 +1,7 @@
 # FacePay
 
 FacePay is a revolutionary digital payment solution that utilizes biometrics to authenticate customers.
+It will be seamlessly integrated country's leading digital wallets solutions (GCash, Paymaya, GrabPay).
 It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-AIM Hackathon 2019.
 
 
@@ -10,6 +11,7 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
 
   Having a facial recognition payment solution will entice employees to use the digital wallet instead of cash.
   Employees who opts to use the technology will gain points that can be converted into cash.
+  Discounts for senior citizen employees will automatically be deducted.
   Additional gimmicks can be added that will make users acquire more points.
   
 - <b>Speech Synthesis</b> (for digital assisstant for voice enabled instructions)
