@@ -26,9 +26,12 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
 - Integration to <b>Globe's GCash, Smart's Paymaya and Grab's GrabPay</b> digital wallet solutions
 
   There's a lot of digital payments solutions in the country already.
+  This includes Globe’s GCash (partnered with Ali Pay), Smart’s PayMaya (partnered with Tencent/WeChat Pay).
   To create another one will prevent wide-spread usage of the technology.
-  We should focus on integrating to country's leading digital wallets solutions such as GCash, Paymaya and GrabPay.
-  This will also make employees use the technology because they can use it outside ADB premises.
+  We should focus on integrating to country's leading digital wallets solutions such as GCash, Paymaya and possibly GrabPay as well.
+  This will make employees use the technology more often because they can use it outside ADB premises.
+  If employees yses the digital wallet solution outside the office, then it would be normal for them to use it inside the ADB office.
+
   
 
 - Integration to <b>ADB's accounting system</b> for food allowance and bonus allocations
