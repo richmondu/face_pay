@@ -7,6 +7,15 @@ It was a proposal I submitted to the "ADB Pay: Digital Payments" challenge of AD
 https://challenges.adb.org/en/challenges/adb-pay
 
 
+### Problem:
+
+ADB employees currently use a closed-loop cashless payment system that allows them to purchase goods from vendors within the ADB Food Services outlets. To date, there are less than 200 users, and at a time of active promotions, it reached beyond 300 users.
+
+Around 5000 staff/contractors/consultants/dependents/visitors mostly use cash for their daily transactions. There are about 40 food services, laundry, courier and other merchants in ADB HQ that can use the future innovative payment solution.
+
+HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS TO USE MORE DIGITAL SOLUTIONS? 
+
+
 ### Core ideas:
 
 - <b>Face Recognition</b> (with options of Fingerprint biometrics and RFID employee ID)
