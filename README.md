@@ -30,7 +30,9 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
 
 - <b>Security</b> (integrated to Amazon Cognito user signup/signin with MFA/OTP via SMS/email)
 
-  <b>By default, an OTP code will be sent to user pre-registered mobile number after user's face has been recognised.</b>
+  People don’t use technogies because they think it is not easy and not safe to use.
+
+  <b>To make FacePay more secure, an OTP code will be sent to user pre-registered SMS mobile number after user's face has been recognised.</b>
   
   This enhances security by preventing fraud activities and 
   ensuring user is who he says he is and therefore has access to his mobile phone. 
