@@ -43,7 +43,7 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
 
 - <b>Voice assistant</b> (integrated to Amazon Polly for voice enabled instructions)
 
-  A digital voice assistant named DeBbie will guide user through the process.
+  A digital voice assistant named <b> DeBbie will guide user through the process.</b>
   This would be really helpful for first time users.
 
 
