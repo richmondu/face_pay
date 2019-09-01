@@ -42,6 +42,9 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
 
 - <b>Fun and Easy to use</b> (with voice enabled instructions)
 
+  The face recognition solution will be deployed in kiosks located in each stores inside ADB. 
+  The kiosk is a touch-screen monitor that is connected to ADB's private servers and can be accessed and controlled remotely by the IT department for management and monitoring.
+
   A digital voice assistant named <b> DeBbie will guide user through the process.</b>
   This would be really helpful for first time users.
 
@@ -68,13 +71,6 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
   A certain portion of yearly bonuses will also be transferred automatically.
   
   <b>Employees will be allowed to configure how much of their salary will automatically be transfered to their digital wallets every payday</b>.
-
-
-- <b>IoT Kiosks</b>
-
-  The face recognition solution will be deployed in kiosks located in each stores inside ADB.
-  The kiosk is a touch-screen monitor that is connected to ADB's private servers and 
-  can be accessed and controlled remotely by the IT department for management and monitoring.  
 
 
 
