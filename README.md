@@ -54,7 +54,8 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
 ### Feasibility:
 
 Facial recognition is already very popular in China.
-Paying food using facial recognition (with backend integration to WeChat Pay or Ali Pay digital payment solutions) is already available commercially. 
+Paying food using face is already available commercially. 
+It is made possible via backend integration with leading digital payment solutions - WeChat Pay and Ali Pay.
 
 - WeChat Pay
 
