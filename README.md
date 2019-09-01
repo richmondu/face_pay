@@ -13,7 +13,7 @@ https://challenges.adb.org/en/challenges/adb-pay
 
   <b>Having a facial recognition payment solution will entice employees to use the digital wallet solution instead of cash because it is an exciting new technology.</b>
   
-  The hype will eventually subside after a few weeks so to make the use of techlogy sustainable, usage must be tied up to some point system.
+  The hype will eventually subside after a few weeks so to make the use of technology sustainable, usage must be tied up to some point system.
   Employees who opts to use the technology will gain points that can be converted into cash.
   Discounts for senior citizen employees will automatically be deducted.
   Additional gimmicks can be added that will make users acquire more points and thus use the technology more.
