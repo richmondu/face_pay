@@ -13,17 +13,17 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
   Employees who opts to use the technology will gain points that can be converted into cash.
   Discounts for senior citizen employees will automatically be deducted.
   Additional gimmicks can be added that will make users acquire more points and thus use the technology more.
-  
+    
+- <b>Security</b> (integrated to Amazon Cognito user signup/signin with MFA/OTP via SMS/email)
+
+  By default, an OTP code will be sent to user after user's face has been recognized.
+  This enhances security by preventing fraud activities and ensuring user is who he says he is and therefore has access to his mobile phone.
+
 - <b>Speech Synthesis</b> (for digital assisstant for voice enabled instructions)
 
   A digital voice assistant named DeBbie will guide user through the process.
   This would be really helpful for first time users.
-  
-- <b>Amazon Cognito</b> (for user signup/signin with MFA/OTP via SMS/email)
 
-  By default, an OTP code will be sent to user after user's face has been recognized.
-  This enhances security by preventing fraud activities and ensuring user is who he says he is and therefore has access to his mobile phone.
-  
 - Integration to <b>Globe's GCash, Smart's Paymaya and Grab's GrabPay</b> digital wallet solutions
 
   There's a lot of digital payments solutions in the country already.
