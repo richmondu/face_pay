@@ -28,7 +28,7 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
   Additional gimmicks can be added that will make users acquire more points and thus use the technology more.
 
 
-- <b>Security</b> (integrated to Amazon Cognito user signup/signin with MFA/OTP via SMS/email)
+- <b>Secure</b> (integrated to Amazon Cognito user signup/signin with MFA/OTP via SMS/email)
 
   People don’t use technogies because they think it is not easy and not safe to use.
 
@@ -38,6 +38,12 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
   ensuring user is who he says he is and therefore has access to his mobile phone. 
   This is also known as 2-factor authentication.
   This feature can be removed by user after some time when accuracy of face recognition has reached to acceptable levels.
+
+
+- <b>Fun and Easy to use</b> (with voice enabled instructions)
+
+  A digital voice assistant named <b> DeBbie will guide user through the process.</b>
+  This would be really helpful for first time users.
 
 
 - Integration to <b>Globe's GCash and Smart's Paymaya</b> digital wallet solutions
@@ -62,12 +68,6 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
   A certain portion of yearly bonuses will also be transferred automatically.
   
   <b>Employees will be allowed to configure how much of their salary will automatically be transfered to their digital wallets every payday</b>.
-
-
-- <b>Fun and Easy to use</b> (with voice enabled instructions)
-
-  A digital voice assistant named <b> DeBbie will guide user through the process.</b>
-  This would be really helpful for first time users.
 
 
 - <b>IoT Kiosks</b>
