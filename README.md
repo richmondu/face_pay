@@ -21,7 +21,8 @@ https://challenges.adb.org/en/challenges/adb-pay
 
   By default, an OTP code will be sent to user after user's face has been recognized.
   This enhances security by preventing fraud activities and 
-  ensuring user is who he says he is and therefore has access to his mobile phone.
+  ensuring user is who he says he is and therefore has access to his mobile phone. 
+  This is also known as 2-factor authentication.
 
 
 - Integration to <b>Globe's GCash and Smart's Paymaya</b> digital wallet solutions
