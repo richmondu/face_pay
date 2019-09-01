@@ -64,7 +64,7 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
   <b>Employees will be allowed to configure how much of their salary will automatically be transfered to their digital wallets every payday</b>.
 
 
-- <b>Voice assistant</b> (integrated to Amazon Polly for voice enabled instructions)
+- <b>Fun and Easy to use</b> (with voice enabled instructions)
 
   A digital voice assistant named <b> DeBbie will guide user through the process.</b>
   This would be really helpful for first time users.
