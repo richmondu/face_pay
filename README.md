@@ -8,9 +8,10 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
 
 - <b>Face Recognition</b> (with options of Fingerprint biometrics and RFID employee ID)
 
-  Having a facial recognition payment solution will entice employees to use the digital wallet.
+  Having a facial recognition payment solution will entice employees to use the digital wallet instead of cash.
   Employees who opts to use the technology will gain points that can be converted into cash.
-
+  Additional gimmicks can be added that will make users acquire more points.
+  
 - <b>Speech Synthesis</b> (for digital assisstant for voice enabled instructions)
 
   A digital voice assistant named DeBbie will guide user through the process.
