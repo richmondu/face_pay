@@ -21,7 +21,7 @@ https://challenges.adb.org/en/challenges/adb-pay
 
 - <b>Security</b> (integrated to Amazon Cognito user signup/signin with MFA/OTP via SMS/email)
 
-  By default, an OTP code will be sent to user after user's face has been recognized.
+  By default, an OTP code will be sent to user pre-registered monile number after user's face has been recognized.
   This enhances security by preventing fraud activities and 
   ensuring user is who he says he is and therefore has access to his mobile phone. 
   This is also known as 2-factor authentication.
