@@ -11,7 +11,9 @@ https://challenges.adb.org/en/challenges/adb-pay
 
 - <b>Face Recognition</b> (with options of Fingerprint biometrics and RFID employee ID)
 
-  Having a facial recognition payment solution will entice employees to use the digital wallet solution instead of cash.
+  <b>Having a facial recognition payment solution will entice employees to use the digital wallet solution instead of cash because it is an exciting new technology that is only often found in airports or in China.</b>
+  
+  The hype can subside after some weeks so to make the use of techlogy sustainable, usage must be tied up to some point system.
   Employees who opts to use the technology will gain points that can be converted into cash.
   Discounts for senior citizen employees will automatically be deducted.
   Additional gimmicks can be added that will make users acquire more points and thus use the technology more.
@@ -23,6 +25,7 @@ https://challenges.adb.org/en/challenges/adb-pay
   This enhances security by preventing fraud activities and 
   ensuring user is who he says he is and therefore has access to his mobile phone. 
   This is also known as 2-factor authentication.
+  This feature can be removed by user after some time when accuracy of face recognition has reached to acceptable levels.
 
 
 - Integration to <b>Globe's GCash and Smart's Paymaya</b> digital wallet solutions
