@@ -1,6 +1,6 @@
 # FacePay
 
-FacePay is a revolutionary digital payment solution that utilizes biometrics to authenticate customers.
+FacePay is a revolutionary digital payment solution that utilizes facial recognition to authenticate customers.
 It will be seamlessly integrated country's leading digital wallets solutions (such as GCash, Paymaya, GrabPay, etc).
 It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-AIM Hackathon 2019.
 
