@@ -67,7 +67,7 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
 
 - Integration to <b>ADB's accounting system</b> for food allowance and bonus allocations
 
-  Food allowances to employees will automatically be transferred to employee's digital wallets.
+  Food allowances and transportation allowances will automatically be transferred to employee's digital wallets.
   A certain portion of yearly bonuses will also be transferred automatically.
   
   <b>Employees will be allowed to configure how much of their salary will automatically be transfered to their digital wallets every payday</b>.
