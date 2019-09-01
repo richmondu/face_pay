@@ -23,12 +23,16 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
   ensuring user is who he says he is and therefore has access to his mobile phone.
 
 
-- Integration to <b>Globe's GCash, Smart's Paymaya and Grab's GrabPay</b> digital wallet solutions
+- Integration to <b>Globe's GCash and Smart's Paymaya</b> digital wallet solutions
 
-  There's a lot of digital payments solutions in the country already.
-  This includes Globe’s GCash (partnered with Ali Pay), Smart’s PayMaya (partnered with Tencent/WeChat Pay).
+  <b> There's a lot of digital payments solutions in the country already.
+  This includes Globe’s GCash (partnered with Ali Pay), Smart’s PayMaya (partnered with Tencent/WeChat Pay), Coins.ph, GrabPay, etc.
   To create another one will prevent wide-spread usage of the technology.
-  We should focus on integrating to country's leading digital wallets solutions such as GCash, Paymaya and possibly GrabPay as well.
+  </b>
+
+  We don’t want to create another one.
+  Rather, we should focus on integrating to country's leading digital wallets solutions. 
+  Based on research, we should integrate with GCash and Paymaya.
 
   This will make employees use the technology more often because they can use it outside ADB premises.
   <b>If employees use the digital wallet solution outside the office, more likely that they will use it inside the ADB office.</b>
