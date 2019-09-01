@@ -75,8 +75,6 @@ It is made possible via backend integration with leading digital payment solutio
 	   
 Proof of concept prototype
 
-[Face Pay demo prototype](https://youtu.be/SCYkW_XRK2c)
-
-<a href="https://youtu.be/SCYkW_XRK2c"
+- <a href="https://youtu.be/SCYkW_XRK2c"
     target="_blank"><img src="https://img.youtube.com/vi/SCYkW_XRK2c/0.jpg" 
     alt="Face Pay demo prototype" width="480" border="10" /></a>
