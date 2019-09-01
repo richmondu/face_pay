@@ -19,7 +19,7 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
   By default, an OTP code will be sent to user after user's face has been recognized.
   This enhances security by preventing fraud activities and ensuring user is who he says he is and therefore has access to his mobile phone.
 
-- <b>Speech Synthesis</b> (for digital assisstant for voice enabled instructions)
+- <b>Voice assistant</b> (integrated to Amazon Polly for voice enabled instructions)
 
   A digital voice assistant named DeBbie will guide user through the process.
   This would be really helpful for first time users.
