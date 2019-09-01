@@ -28,7 +28,8 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
   There's a lot of digital payments solutions in the country already.
   To create another one will prevent wide-spread usage of the technology.
   We should focus on integrating to country's leading digital wallets solutions such as GCash, Paymaya and GrabPay.
-
+  This will also make employees use the technology because they can use it outside ADB premises.
+  
 
 - Integration to <b>ADB's accounting system</b> for food allowance and bonus allocations
 
