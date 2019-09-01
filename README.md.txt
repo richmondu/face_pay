@@ -10,7 +10,7 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
 - Speech Synthesis (for digital assisstant for voice enabled instructions)
 - Amazon Cognito for user signup/signin with MFA/OTP via SMS/email
 - Integration to Globe's GCash, Smart's Paymaya and digital wallet solutions
-- Integration to ADB's accounting system
+- Integration to ADB's accounting system for food allowance and bonus allocations
 
 
 ### Feasibility:
