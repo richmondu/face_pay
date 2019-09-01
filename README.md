@@ -83,7 +83,8 @@ It is made possible via backend integration with leading digital payment solutio
 ### Challenges:
 
 Deploying a facial recognition project can be a challenging task. 
-Upper managers can be quite hesitant to adapt to this technology especially due to privacy and ethical issues surrounding face recognition.
+1. Ensuring high accurracy for about 5000 employees can be challenging. ML/DL models will need to be trained and retrained as more employees use the technology.
+2. Upper managers can be quite hesitant to adapt to this technology especially due to privacy and ethical issues surrounding face recognition.
 Its a digital project initiative for the well-funded companies with technology savvy directors and managers who are not afraid to experiment, fail and learn.
 
 
