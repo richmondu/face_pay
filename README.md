@@ -84,7 +84,7 @@ It is made possible via backend integration with leading digital payment solutio
 
 Deploying a facial recognition project can be a challenging task. 
 Upper managers can be quite hesitant to adapt to this technology especially due to privacy and ethical issues surrounding face recognition.
-Its a digital project initiative for the technology savvy directors and managers.
+Its a digital project initiative for the well-funded companies with technology savvy directors and managers.
 
 
 
