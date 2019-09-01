@@ -43,6 +43,7 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
 
   Food allowances to employees will automatically be transferred to employee's digital wallets.
   A certain portion of yearly bonuses will also be transferred automatically.
+  <b>Employees will be allowed to configure how much of their salary will automatically be transfered to their digital wallets every payday</b>.
 
 
 - <b>Voice assistant</b> (integrated to Amazon Polly for voice enabled instructions)
