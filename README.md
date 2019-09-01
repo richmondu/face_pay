@@ -56,7 +56,7 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
 
   The face recognition solution will be deployed in kiosks located in each stores inside ADB.
   The kiosk is a touch-screen monitor that is connected to ADB's private servers and 
-  can be controlled remotely by the IT department for management and monitoring.  
+  can be accessed and controlled remotely by the IT department for management and monitoring.  
 
 
 
@@ -86,7 +86,8 @@ Proof of concept prototype
 
 - ADB FacePay
   
-  Note that this interface is intended to be displayed on a touch screen device. The kiosk is to be deployed on each store.
+  Note that this interface is intended to be displayed on a touch screen device. 
+  The kiosk is to be deployed on each store.
 
   <a href="https://youtu.be/SCYkW_XRK2c"
     target="_blank"><img src="https://img.youtube.com/vi/SCYkW_XRK2c/0.jpg" 
