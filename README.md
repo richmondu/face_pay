@@ -8,7 +8,7 @@ It was a proposal submitted to the "ADB Pay: Digital Payments" challenge of ADB-
 
 - Face Recognition (with options of Fingerprint biometrics and RFID employee ID)
 - Speech Synthesis (for digital assisstant for voice enabled instructions)
-- Amazon Cognito for user signup/signin with MFA/OTP via SMS/email
+- Amazon Cognito (for user signup/signin with MFA/OTP via SMS/email)
 - Integration to Globe's GCash, Smart's Paymaya and digital wallet solutions
 - Integration to ADB's accounting system for food allowance and bonus allocations
 
