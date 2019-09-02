@@ -23,8 +23,8 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
   <b>Having a facial recognition payment solution will entice employees to use the digital wallet solution instead of cash 
   because it is a bold and exciting new technology.</b>
   
-  The hype will eventually subside after a few weeks so to make the use of technology sustainable, usage must be tied up to some point system.
-  Employees who opts to use the technology will gain points that can be converted into cash.
+  The hype will eventually subside after a few weeks so to make the use of technology sustainable, usage must be tied up to some <b>point system</b>.
+  Employees who opts to use the technology will gain points that can be <b>converted into cash</b>.
   Discounts for senior citizen employees will automatically be deducted.
   Additional gimmicks can be added that will make users acquire more points and thus use the technology more.
 
@@ -44,9 +44,9 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
 - <b>Fun and Easy to use</b> (with voice enabled instructions)
 
   The face recognition solution will be deployed in kiosks located in each stores inside ADB. 
-  The kiosk is a touch-screen monitor that is connected to ADB's private servers and can be accessed and controlled remotely by the IT department for management and monitoring.
+  The kiosk is a <b>touch-screen monitor</b> that is connected to ADB's private servers and can be accessed and controlled remotely by the IT department for management and monitoring.
 
-  A digital voice assistant named <b> DeBbie will guide user through the process.</b>
+  A <b>digital voice assistant</b> named <b> DeBbie will guide user through the process.</b>
   This would be really helpful for first time users.
 
 
