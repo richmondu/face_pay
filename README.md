@@ -62,7 +62,7 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
   Based on research, we should integrate with GCash and Paymaya.
 
   This will make employees use the technology more often because they can use it outside ADB premises.
-  <b>If employees use the digital wallet solution outside the office, more likely that they will use it inside the ADB office.</b>
+  <b>If employees use the digital wallet solution outside the office, more likely that they will use it inside the ADB office. The culture of using digital solutions and new technologies in day-to-day lives.</b>
 
   
 
