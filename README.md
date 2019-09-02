@@ -21,7 +21,7 @@ HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS T
 - <b>Face Recognition</b> (with options of Fingerprint biometrics and RFID employee ID)
 
   <b>Having a facial recognition payment solution will entice employees to use the digital wallet solution instead of cash 
-  because it is a bold and exciting new technology.</b>
+  because it is a bold and exciting new technology that the young (and old) generation wants to experience every day.</b>
   
   The hype will eventually subside after a few weeks so to make the use of technology sustainable, usage must be tied up to some <b>point system</b>.
   Employees who opts to use the technology will gain points that can be <b>converted into cash</b>.
