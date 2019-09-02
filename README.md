@@ -122,6 +122,6 @@ Proof of concept prototype
 
 ### Notes:
 
-Its a digital project initiative for the well-funded companies with technology savvy directors and managers who are not afraid to risk, experiment, fail, learn and iterate. This is a risky project but there’s tremendous opportunities once we make it perfect.
+Facial recognition is one the digital transformation project initiative for the well-funded companies with technology savvy directors and managers who are not afraid to risk, experiment, fail, learn and iterate. This is a risky project but there’s tremendous opportunities once we make it perfect.
 
 Let's make it happen! Message me!
