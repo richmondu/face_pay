@@ -2,7 +2,7 @@
 
 ADB FacePay is a <b>digital payment solution that utilizes facial recognition</b> to authenticate customers.
 It will be <b>seamlessly integrated with country's leading digital wallet solutions - GCash and Paymaya</b>.
-It was a proposal I submitted to the "ADB Pay: Digital Payments" challenge of <b>ADB-AIM Hackathon 2019</b>.
+It was a proposal I submitted to the "ADB Pay: Digital Payments" challenge of <b>ADB-AIM Hackathon 2019</b> to help drive the digital transformation of ADB.
 
 https://challenges.adb.org/en/challenges/adb-pay
 
