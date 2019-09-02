@@ -114,8 +114,9 @@ Proof of concept prototype
 
 - ADB FacePay
   
-  Note that this interface is intended to be displayed on a touch screen device. 
+  Note that this user interface is intended to be displayed on a touch screen device. 
   The kiosk is to be deployed on each store in the ADB premises.
+  Apologies for the very basic user interface.
 
   <a href="https://youtu.be/SCYkW_XRK2c"
     target="_blank"><img src="https://img.youtube.com/vi/SCYkW_XRK2c/0.jpg" 
