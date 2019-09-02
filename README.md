@@ -103,8 +103,6 @@ Deploying a facial recognition project can be a challenging task.
    Adding backup alternatives such as fingerprint biometrics or RFID employee id card will be critical in the early stages of deployment.
 2. Upper managers can be quite hesitant to adapt to this technology especially due to <b>privacy and ethical issues</b> surrounding face recognition.
 
-Its a digital project initiative for the well-funded companies with technology savvy directors and managers who are not afraid to experiment, fail, learn and iterate. Let's make it happen!
-
 
 
 ### Presentation:
@@ -120,7 +118,10 @@ Proof of concept prototype
     target="_blank"><img src="https://img.youtube.com/vi/SCYkW_XRK2c/0.jpg" 
     alt="Face Pay demo prototype" width="480" border="10" /></a>
  
- 
+
+
 ### Notes:
+
+Its a digital project initiative for the well-funded companies with technology savvy directors and managers who are not afraid to risk, experiment, fail, learn and iterate. This is a risky project but there’s tremendous opportunities once we make it perfect.
 
 Let's make it happen! Message me!
