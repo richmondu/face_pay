@@ -102,7 +102,7 @@ Deploying a facial recognition project can be a challenging task.
 1. Ensuring <b>high accurracy for about 5000 employees</b> can be challenging. ML/DL models will need to be trained and retrained as more employees use the technology.
    Adding backup alternatives such as fingerprint biometrics or RFID employee id card will be critical in the early stages of deployment.
 2. Upper managers can be quite hesitant and resistant to adapt to this technology especially due to <b>privacy and ethical issues</b> surrounding face recognition. 
-   As long as the goal is aligned with the business objectives, this is a worthy endeavor of digital transformation of giving digital experience to the digital customers.
+   As long as the goal is aligned with the business objectives, this is a worthy endeavor of <b>digital transformation of giving digital experience to the digital customers</b>.
 
 
 
