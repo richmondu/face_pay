@@ -122,7 +122,8 @@ Proof of concept prototype
     target="_blank"><img src="https://img.youtube.com/vi/SCYkW_XRK2c/0.jpg" 
     alt="Face Pay demo prototype" width="480" border="10" /></a>
  
-
+  (This is a desktop recording session using Game bar application, a built-in app on Windows 10.)
+  
 
 ### Notes:
 
