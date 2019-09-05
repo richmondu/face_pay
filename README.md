@@ -95,6 +95,13 @@ It is made possible via backend integration with leading digital payment solutio
     target="_blank"><img src="https://img.youtube.com/vi/W4P0zt4cnmU/0.jpg" 
     alt="Buying Food with Facial Recognition in China" width="480" border="10" /></a>
 
+- Article
+
+  https://www.theguardian.com/world/2019/sep/04/smile-to-pay-chinese-shoppers-turn-to-facial-payment-technology
+  
+  “(Facial payment) certainly has the potential to become popular with the wide push from major mobile payment players”
+
+  “Alipay is spending (billions) to popularise facial payment technology through giving out subsidies for vendors and rewards for consumers that use facial payment”
 
 
 ### Challenges:
