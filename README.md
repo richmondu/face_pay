@@ -16,7 +16,7 @@ Around 5000 staff/contractors/consultants/dependents/visitors mostly use cash fo
 HOW CAN YOU ENCOURAGE STAFF, CONTRACTORS, CONSULTANTS, DEPENDENTS AND VISITORS TO USE MORE DIGITAL SOLUTIONS? 
 
 
-### Core ideas:
+### Solution (core ideas)
 
 - <b>Face Recognition</b> (with options of Fingerprint biometrics and RFID employee ID)
 
